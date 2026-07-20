@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=700&color=00FFC6&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Training;NLP+%7C+Applied+Systems+%7C+Real+Deployments;B.Tech+CSE+(AI+%26+ML)+%40+GLA+University" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=700&color=00FFC6&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Training;NLP+%7C+Applied+Systems+%7C+Real+Deployments;B.Tech+CSE+(AI+%26+ML)+%40+GLA+University" alt="Typing SVG">
 
 </div>
 
@@ -15,6 +15,23 @@
 [FOCUS]   AI/ML · NLP · Applied Systems with Real Deployments
 [CGPA]    8.38 / 10
 ```
+
+---
+
+## 👋 About Me
+
+CSE undergraduate (AI & ML) focused on shipping applied NLP and machine learning systems end-to-end — not just notebooks, but deployed, working products with real users hitting real endpoints.
+
+I care more about a skill being backed by a shipped project than listed on a resume — every "shipped" tag below has a live deployment behind it.
+
+---
+
+## 🔭 Currently Exploring
+
+- **NLP-driven applied systems** — semantic matching, compliance auditing, cross-lingual sentiment analysis
+- **Multimodal deep learning** — combining text + other modalities (DRISHTI)
+- **Personal AI agents** — voice interaction, vector memory, agent architecture (J.A.R.V.I.S)
+- **LLM integration patterns** — using Gemini/OpenAI as an augmentation layer on top of classical NLP, not a replacement for it
 
 ---
 
@@ -31,36 +48,28 @@
 
 ---
 
-### `> skills --shipped`
+## ⚙️ Technical Skills
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Languages
+**Shipped:** ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### `> skills --learning`
+### AI / ML / NLP
+**Shipped:** ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+**Learning:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Frontend
+**Shipped:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+### Backend & Databases
+**Shipped:** ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+**Learning:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### `> certifications`
+### Systems & DevOps
+**Shipped:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Learning:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-```
-[x] Microsoft AZ-900 — Azure Fundamentals
-[x] Microsoft AI-900 — Azure AI Fundamentals
-[x] Google Cybersecurity Professional Certificate
-```
+### Certifications
+![Azure](https://img.shields.io/badge/AZ--900-008AD7?style=flat-square&logo=microsoftazure&logoColor=white) ![Azure AI](https://img.shields.io/badge/AI--900-008AD7?style=flat-square&logo=microsoftazure&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
