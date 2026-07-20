@@ -1,0 +1,38 @@
+<svg viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0e14"/>
+      <stop offset="100%" stop-color="#111826"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ffc6"/>
+      <stop offset="100%" stop-color="#00b3ff"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#1c2733" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="260" fill="url(#bg)"/>
+  <rect width="1000" height="260" fill="url(#grid)" opacity="0.5"/>
+
+  <!-- HUD corner brackets -->
+  <path d="M20 20 L20 50 M20 20 L50 20" stroke="#00ffc6" stroke-width="2" fill="none"/>
+  <path d="M980 20 L980 50 M980 20 L950 20" stroke="#00ffc6" stroke-width="2" fill="none"/>
+  <path d="M20 240 L20 210 M20 240 L50 240" stroke="#00b3ff" stroke-width="2" fill="none"/>
+  <path d="M980 240 L980 210 M980 240 L950 240" stroke="#00b3ff" stroke-width="2" fill="none"/>
+
+  <!-- terminal window dots -->
+  <circle cx="45" cy="70" r="6" fill="#ff5f56"/>
+  <circle cx="65" cy="70" r="6" fill="#ffbd2e"/>
+  <circle cx="85" cy="70" r="6" fill="#27c93f"/>
+  <text x="45" y="100" font-family="monospace" font-size="15" fill="#5a6b7d">~/krishnagupta2107 — zsh</text>
+
+  <text x="45" y="150" font-family="monospace" font-size="34" font-weight="bold" fill="#e6f1ff">krishna_gupta<tspan fill="url(#accent)">.dev</tspan></text>
+  <text x="45" y="182" font-family="monospace" font-size="16" fill="#8b9bb0">AI/ML Engineer · NLP · Applied Systems with Real Deployments</text>
+
+  <line x1="45" y1="200" x2="955" y2="200" stroke="#1c2733" stroke-width="1"/>
+  <text x="45" y="225" font-family="monospace" font-size="13" fill="#00ffc6">$</text>
+  <text x="65" y="225" font-family="monospace" font-size="13" fill="#8b9bb0">status --check</text>
+  <text x="230" y="225" font-family="monospace" font-size="13" fill="#00b3ff">[ONLINE] B.Tech CSE (AI &amp; ML) · GLA University</text>
+</svg>
