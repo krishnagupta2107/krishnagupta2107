@@ -24,17 +24,20 @@
 |---|---|---|
 | **[RiskLens](https://github.com/krishnagupta2107/RiskLens)** — compliance & PII auditor (regex + spaCy NER, optional LLM summaries) | Flask, spaCy, Docker | 🟢 Live |
 | **[AI Resume & Job Matching System](https://github.com/krishnagupta2107/MiniProject_4thSem)** — dual-engine (TF-IDF + spaCy + Gemini) candidate matcher, blind hiring mode, P/R/F1 metrics | Flask, spaCy, Gemini, Firestore | 🟢 Live |
-| **Diabetes Prediction System** — Random Forest risk classifier | Flask, Scikit-learn | 🟢 Live |
-| **DRISHTI** — cross-lingual multimodal sentiment analysis | Python, multimodal ML | 🟡 In dev |
-| **J.A.R.V.I.S** — personal AI agent: voice interaction, vector memory, HUD interface | Python, LLMs, voice | 🟡 In dev |
-| **[Odoo Hackathon 2026](https://github.com/ansh-codr/Odoo-Hackathon-2026)** — asset management application, team build | — | 🟡 In dev |
+| **[Diabetes Prediction System](https://github.com/krishnagupta2107/diabetes_prediction)** — Random Forest risk classifier | Flask, Scikit-learn | 🟢 Live |
+| **[DRISHTI](https://github.com/krishnagupta2107/DRISHTI)** — cross-lingual multimodal sentiment analysis | Python, multimodal ML | 🟡 In dev |
+| **[J.A.R.V.I.S](https://github.com/krishnagupta2107/Jarvis)** — personal AI agent: voice interaction, vector memory, HUD interface | Python, LLMs, voice | 🟡 In dev |
+| **[AssetFlow — Odoo Hackathon 2026](https://github.com/ansh-codr/Odoo-Hackathon-2026)** — enterprise asset & resource management ERP, team build ([live](https://odoo-hack-bc2bd.web.app/)) | React 19, TanStack Start/Router/Query, Tailwind, Radix UI, Firebase | 🟢 Live |
 
 ---
 
 ### `> skills --shipped`
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,7 +49,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -68,6 +70,11 @@
 
 <img src="https://raw.githubusercontent.com/krishnagupta2107/krishnagupta2107/output/github-contribution-grid-snake-dark.svg" alt="snake contribution graph">
 
+</div>
+
+---
+
+<div align="center">
 
 ```
 $ contact --init
