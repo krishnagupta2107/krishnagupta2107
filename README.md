@@ -41,9 +41,9 @@ I care more about a skill being backed by a shipped project than listed on a res
 |---|---|---|
 | **[RiskLens](https://github.com/krishnagupta2107/RiskLens)** — compliance & PII auditor (regex + spaCy NER, optional LLM summaries) | Flask, spaCy, Docker | 🟢 Live |
 | **[AI Resume & Job Matching System](https://github.com/krishnagupta2107/MiniProject_4thSem)** — dual-engine (TF-IDF + spaCy + Gemini) candidate matcher, blind hiring mode, P/R/F1 metrics | Flask, spaCy, Gemini, Firestore | 🟢 Live |
-| **[Diabetes Prediction System](https://github.com/krishnagupta2107/diabetes_prediction)** — Random Forest risk classifier | Flask, Scikit-learn | 🟢 Live |
-| **[DRISHTI](https://github.com/krishnagupta2107/DRISHTI)** — cross-lingual multimodal sentiment analysis | Python, multimodal ML | 🟡 In dev |
-| **[J.A.R.V.I.S](https://github.com/krishnagupta2107/Jarvis)** — personal AI agent: voice interaction, vector memory, HUD interface | Python, LLMs, voice | 🟡 In dev |
+| **[Diabetes Prediction System](https://github.com/krishnagupta2107/diabetes_prediction)** — Logistic Regression risk classifier on the PIMA dataset ([live](https://diabetes-prediction-kozs.onrender.com/)) | Flask, Scikit-learn | 🟢 Live |
+| **[DRISHTI](https://github.com/krishnagupta2107/DRISHTI)** — cross-lingual multimodal sentiment analysis (data pipeline built; model architecture not yet implemented) | PyTorch, HuggingFace Transformers | 🟡 Early stage |
+| **[J.A.R.V.I.S](https://github.com/krishnagupta2107/Jarvis)** — personal AI agent: voice interaction, persistent memory, holographic HUD | Node.js, Express, MongoDB, React (frontend in progress), Gemini/Groq | 🟡 In dev |
 | **[AssetFlow — Odoo Hackathon 2026](https://github.com/ansh-codr/Odoo-Hackathon-2026)** — enterprise asset & resource management ERP, team build ([live](https://odoo-hack-bc2bd.web.app/)) | React 19, TanStack Start/Router/Query, Tailwind, Radix UI, Firebase | 🟢 Live |
 
 ---
@@ -61,8 +61,7 @@ I care more about a skill being backed by a shipped project than listed on a res
 **Shipped:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Backend & Databases
-**Shipped:** ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-**Learning:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**Shipped:** ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Systems & DevOps
 **Shipped:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
