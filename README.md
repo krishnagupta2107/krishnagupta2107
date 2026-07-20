@@ -70,13 +70,6 @@
 
 <img src="https://raw.githubusercontent.com/krishnagupta2107/krishnagupta2107/output/github-contribution-grid-snake-dark.svg" alt="snake contribution graph">
 
-</div>
-
-*(Rendered by a GitHub Action — see `.github/workflows/snake.yml` setup below. It won't display until that workflow runs once.)*
-
----
-
-<div align="center">
 
 ```
 $ contact --init
